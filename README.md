@@ -51,11 +51,11 @@ Como este é um projeto de front-end puro, não há necessidade de instalação 
 
 1.  **Clone este repositório:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[SEU-USUARIO-GITHUB]/[NOME-DO-SEU-REPOSITORIO].git
+    git clone https://github.com/VitinhoBrum/projeto-web-ong/tree/c8ba2c7a19d3068a1ecb92aad1e6b141ea094b38
     ```
 2.  **Acesse a pasta do projeto:**
     ```bash
-    cd [NOME-DO-SEU-REPOSITORIO]
+    cd [projeto-web-ong]
     ```
 3.  **Abra o arquivo `index.html`:**
     * Clique duas vezes no arquivo `index.html` no seu explorador de arquivos, ou
