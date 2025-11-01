@@ -1,0 +1,20 @@
+/* Esconde os spans de erro por padrão */
+.error-message {
+    display: block; /* Faz o span ocupar sua própria linha */
+    min-height: 1.2em; /* Garante espaço para o texto não 'pular' */
+    font-size: 0.9em;
+    margin-top: 5px;
+}
+
+/* Estilos básicos para o formulário */
+form div {
+    margin-bottom: 15px;
+}
+form label {
+    display: block;
+    margin-bottom: 5px;
+}
+form input[type="text"], form textarea {
+    width: 300px;
+    padding: 8px;
+}
